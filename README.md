@@ -1,7 +1,7 @@
 <div style="display:flex;flex-direction:column;min-height:auto;">
   <h2>关于我</h2>
   <div style="padding: 1rem;">
-    <li>😎一名化工自学转编程人员。</li>
+    <li>😎一名化工转编程人员。</li>
     <li>💻使用 Golang\JavaScript\Python 进行工作。</li>
   </div>
   <br>
