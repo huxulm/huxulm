@@ -1,8 +1,8 @@
 <div style="display:flex;flex-direction:column;min-height:auto;">
-  <h2>关于我</h2>
+  <h2>About me</h2>
   <div style="padding: 1rem;">
-    <li>😎一名化工转编程人员。</li>
-    <li>💻使用 Golang\JavaScript\Python 进行工作。</li>
+    <li>😎A chemical engineer turned programmer.</li>
+    <li>💻Works with Golang\JavaScript\Python.</li>
   </div>
   <br>
   <table style="margin-top:150px;">
