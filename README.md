@@ -2,7 +2,7 @@
   <h2>About me</h2>
   <div style="padding: 1rem; list-style: none;">
     <li>😎A chemical engineer turned programmer.</li>
-    <li>💻Works with Golang\JavaScript\Python.</li>
+    <li>💻Works in Golang\JavaScript\Python.</li>
   </div>
   <br>
   <table style="margin-top:150px;">
