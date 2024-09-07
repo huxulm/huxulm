@@ -1,6 +1,6 @@
 <div style="display:flex;flex-direction:column;min-height:auto;">
   <h2>About me</h2>
-  <div style="padding: 1rem;">
+  <div style="padding: 1rem; list-style: none;">
     <li>😎A chemical engineer turned programmer.</li>
     <li>💻Works with Golang\JavaScript\Python.</li>
   </div>
