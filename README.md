@@ -12,7 +12,7 @@ Chemical engineer turned software engineer. I build web apps, backend services a
 
 #### Stack
 
-TypeScript · Go · Python · Rust · C/C++ · React · Node.js · Docker · Kubernetes
+TypeScript · Go · Rust · Python · Dart · C/C++ · React · Flutter · Node.js · Docker · Kubernetes
 
 #### Elsewhere
 
