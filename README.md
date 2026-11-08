@@ -8,7 +8,7 @@ Chemical engineer turned software engineer. I build web apps, backend services a
 
 - **[lc-rating](https://github.com/huxulm/lc-rating)** — 力扣周赛训练小工具，按难度分刷题
 - **[sofars](https://github.com/astro-xao/sofars)** — Pure Rust implementation of the IAU SOFA library · [@astro-xao](https://github.com/astro-xao)
-- **[front-trends](https://github.com/huxulm/front-trends)** — 跟踪主流前端框架 npm 下载趋势，每日更新
+- **[guangxiang](https://github.com/huxulm/guangxiang)**
 
 #### Stack
 
