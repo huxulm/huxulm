@@ -5,7 +5,7 @@ Chemical engineer turned software engineer. I build web apps, backend services a
 #### Projects
 
 - **[sofars](https://github.com/astro-xao/sofars)** — Pure Rust implementation of the IAU SOFA library · [@astro-xao](https://github.com/astro-xao)
-- **[guanxiang](https://github.com/huxulm/guanxiang)** — 观象：跨平台天文事件搜索，Rust + Flutter
+- **[guanxiang](https://github.com/huxulm/guanxiang)** — 观象：跨平台天文事件搜索 (Rust + Flutter)
 
 #### Stack
 
