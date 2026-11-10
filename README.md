@@ -4,7 +4,6 @@ Chemical engineer turned software engineer. I build web apps, backend services a
 
 #### Projects
 
-- **[lc-rating](https://github.com/huxulm/lc-rating)** — 力扣周赛训练小工具，按难度分刷题
 - **[sofars](https://github.com/astro-xao/sofars)** — Pure Rust implementation of the IAU SOFA library · [@astro-xao](https://github.com/astro-xao)
 - **[guanxiang](https://github.com/huxulm/guanxiang)** — 观象：跨平台天文事件搜索，Rust + Flutter
 
